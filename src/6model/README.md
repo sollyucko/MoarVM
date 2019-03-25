@@ -2,7 +2,7 @@
 
 A great introduction to the 6model system is available here:
 
-    http://jnthn.net/papers/2013-yapceu-moarvm.pdf
+http://jnthn.net/papers/2013-yapceu-moarvm.pdf
 
 Here are some highlights from the text on those slides:
 
